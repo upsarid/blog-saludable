@@ -1,0 +1,12 @@
+main{
+    background-image: url(images/background.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+#menu:checked ~ aside{
+    display: flex;
+}
+
